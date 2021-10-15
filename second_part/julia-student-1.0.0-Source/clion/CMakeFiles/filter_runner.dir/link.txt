@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -Wall -g CMakeFiles/filter_runner.dir/src/filter.c.o CMakeFiles/filter_runner.dir/src/filter_runner.c.o CMakeFiles/filter_runner.dir/src/png_utils.c.o -o bin/filter_runner  -lm /usr/lib/x86_64-linux-gnu/libpng.so 

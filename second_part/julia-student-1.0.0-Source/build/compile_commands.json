@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -fopenmp -O3 -Wall -g -o CMakeFiles/juliap_runner.dir/src/juliap.c.o -c /home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/juliap.c",
+  "file": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/juliap.c"
+},
+{
+  "directory": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -fopenmp -O3 -Wall -g -o CMakeFiles/juliap_runner.dir/src/juliap_runner.c.o -c /home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/juliap_runner.c",
+  "file": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/juliap_runner.c"
+},
+{
+  "directory": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -fopenmp -O3 -Wall -g -o CMakeFiles/filter_runner.dir/src/filter.c.o -c /home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/filter.c",
+  "file": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/filter.c"
+},
+{
+  "directory": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -fopenmp -O3 -Wall -g -o CMakeFiles/filter_runner.dir/src/filter_runner.c.o -c /home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/filter_runner.c",
+  "file": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/filter_runner.c"
+},
+{
+  "directory": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9    -fopenmp -O3 -Wall -g -o CMakeFiles/filter_runner.dir/src/png_utils.c.o -c /home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/png_utils.c",
+  "file": "/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/src/png_utils.c"
+}
+]

@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-gcc-9  -fopenmp -O3 -Wall -g -rdynamic CMakeFiles/juliap_runner.dir/src/juliap.c.o CMakeFiles/juliap_runner.dir/src/juliap_runner.c.o -o bin/juliap_runner  -lm 

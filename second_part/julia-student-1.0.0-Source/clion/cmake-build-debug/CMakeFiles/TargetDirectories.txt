@@ -1,0 +1,7 @@
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/package_source.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/local_filter.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/juliap_runner.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/filter_runner.dir
+/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/CMakeFiles/package.dir

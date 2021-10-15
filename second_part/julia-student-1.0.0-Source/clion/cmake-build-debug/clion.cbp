@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="clion"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_filter">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/local_filter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 local_filter"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="local_filter/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/local_filter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 local_filter/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juliap_runner">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin/juliap_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 juliap_runner"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="juliap_runner/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin/juliap_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 juliap_runner/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filter_runner">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin/filter_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 filter_runner"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="filter_runner/fast">
+				<Option output="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin/filter_runner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 filter_runner/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/main.c">
+			<Option target="local_filter"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/filter.c">
+			<Option target="filter_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/filter.h">
+			<Option target="filter_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/filter_runner.c">
+			<Option target="filter_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/juliap.c">
+			<Option target="juliap_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/juliap.h">
+			<Option target="juliap_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/juliap_runner.c">
+			<Option target="juliap_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/png_utils.c">
+			<Option target="filter_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/src/png_utils.h">
+			<Option target="filter_runner"/>
+		</Unit>
+		<Unit filename="/home/andrews/Desktop/MathMods/TUWIEN/basic_parallel_computing/assignment/2/julia-student-1.0.0-Source/clion/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

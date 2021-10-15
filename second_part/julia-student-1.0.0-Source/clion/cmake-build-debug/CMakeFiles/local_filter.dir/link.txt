@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -Wall -g CMakeFiles/local_filter.dir/main.c.o -o local_filter 

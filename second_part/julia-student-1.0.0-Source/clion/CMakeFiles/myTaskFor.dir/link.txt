@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp -O3 -Wall -g CMakeFiles/myTaskFor.dir/src/my_task_for.c.o -o bin/myTaskFor 

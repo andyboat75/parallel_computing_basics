@@ -1,0 +1,6 @@
+cmake .
+make
+# OMP_SCHEDULE=dynamic,1 ./bin/juliap_runner -n 10 -p 
+./bin/filter_runner -i ./contrib/input1.png -p 1 -o foo.png
+# python3 ./contrib/julia2img.py -i test.out -o test.png
+# shotwell test.png
